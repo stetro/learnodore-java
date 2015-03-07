@@ -5,4 +5,4 @@ This is a simple java implementation of the previous developed learnodore for ma
 
 ![Screenshot](screenshot.png)
 
-[Download](learnodore.jar)
+[Download](https://github.com/stetro/learnodore-java/raw/master/learnodore.jar)
