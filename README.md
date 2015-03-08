@@ -1,7 +1,7 @@
-learnodore
-==========
+learnodore-java
+===============
 
-This is a simple java implementation of the previous developed learnodore for mac only.
+This is a simple java implementation of the previous developed learnodore in Objective-C
 
 ![Screenshot](screenshot.png)
 
